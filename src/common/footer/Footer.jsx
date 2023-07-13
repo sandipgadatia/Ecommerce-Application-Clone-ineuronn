@@ -8,7 +8,7 @@ const Footer = () => {
         <div className='container grid2'>
           <div className='box'>
             <h1>sandycart</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor libero id et, in gravida. Sit diam duis mauris nulla cursus. Erat et lectus vel ut sollicitudin elit at amet.</p>
+            <p>Welcome to sandycart! We are dedicated to providing you with a seamless online shopping experience. Discover a wide range of products right at your fingertips on our homepage. Explore specific categories through our collection pages, where you'll find an extensive selection tailored to your interests. Easily manage your shopping cart, reviewing and modifying your chosen items on the dedicated cart display page.</p>
             <div className='icon d_flex'>
               <div className='img d_flex'>
                 <i class='fa-brands fa-google-play'></i>
@@ -45,8 +45,8 @@ const Footer = () => {
             <h2>Contact Us</h2>
             <ul>
               <li>70 Washington Square South, New York, NY 10012, United States </li>
-              <li>Email: uilib.help@gmail.com</li>
-              <li>Phone: +1 1123 456 780</li>
+              <li>Email: support@example.com</li>
+              <li>Phone: +919399 XXX XXX</li>
             </ul>
           </div>
         </div>

@@ -1,5 +1,7 @@
 import React from "react"
+
 import "./style.css"
+import { green } from "@mui/material/colors"
 
 const Cart = ({ CartItem, addToCart, decreaseQty }) => {
   // Stpe: 7   calucate total of items
@@ -62,7 +64,24 @@ const Cart = ({ CartItem, addToCart, decreaseQty }) => {
               <h4>Total Price :</h4>
               <h3>${totalPrice}.00</h3>
             </div>
+            <div>
+            <div>
+      <button className="placeorder" style={{display:'block',height:60,width:360,fontSize:30,backgroundColor:'green',marginTop:60,color:'white'
+}}>Place Order</button>
+      
+     
+
+
+    </div>
+
+
+
+
+
+
+              </div>
           </div>
+         
         </div>
       </section>
     </>
