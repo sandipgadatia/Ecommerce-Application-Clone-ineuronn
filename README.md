@@ -10,6 +10,6 @@ I have created the Frontend Ecommerce Web Application Clone using ReactJS.
 ![category page](https://github.com/sandipgadatia/Ecommerce-Application-Clone-ineuronn/assets/139265781/e05ef7a5-6fa6-429e-ab69-cff08f3da426)
 ![shopping cart](https://github.com/sandipgadatia/Ecommerce-Application-Clone-ineuronn/assets/139265781/b07b72e2-2b71-4339-b9b0-2ef08ca29c27)
 
-# Requirements to run the project
+# Requirements
 NodeJS
 ReactJS
